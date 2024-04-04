@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(162, 128, 162);
+}
+.nom{
+    color: blue;
+    display: block;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: antiquewhite;
+    position: relative;
+}
+.prenom{
+    color: blue;
+    display: block;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: antiquewhite;
+    position: relative;
+}
+.email{
+    color: blue;
+    display: block;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: antiquewhite;
+    position: relative;
+}
+.adresse{
+    color: blue;
+    display: block;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: antiquewhite;
+    position: relative;
+}
+.choix{
+    color: blue;
+    display: block;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: antiquewhite;
+    position: relative;
+}
+.telephone{
+    color: blue;
+    display: block;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: antiquewhite;
+    position: relative;
+}
+.submit{
+    color: blue;
+    display: block;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: rgb(3, 52, 23);
+    position: relative;
+}
+.entete{
+    background-color: rgb(43, 80, 226);
+    width: 50%;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+.form{
+    
+}
